@@ -1,0 +1,68 @@
+{
+    "pesan": {
+        "kode": 0,
+        "deskripsi": "data ditemukan"
+    },
+    "data": [
+        {
+            "GOLONGAN": "Juru Tk. I/I/d",
+            "JUMLAH_PEGAWAI": "22"
+        },
+        {
+            "GOLONGAN": "Juru/I/c",
+            "JUMLAH_PEGAWAI": "30"
+        },
+        {
+            "GOLONGAN": "Pembina Tk. I/IV/b",
+            "JUMLAH_PEGAWAI": "393"
+        },
+        {
+            "GOLONGAN": "Pembina Utama Madya/IV/d",
+            "JUMLAH_PEGAWAI": "23"
+        },
+        {
+            "GOLONGAN": "Pembina Utama Muda/IV/c",
+            "JUMLAH_PEGAWAI": "88"
+        },
+        {
+            "GOLONGAN": "Pembina Utama/IV/e",
+            "JUMLAH_PEGAWAI": "2"
+        },
+        {
+            "GOLONGAN": "Pembina/IV/a",
+            "JUMLAH_PEGAWAI": "1851"
+        },
+        {
+            "GOLONGAN": "Penata Muda Tk. I/III/b",
+            "JUMLAH_PEGAWAI": "1666"
+        },
+        {
+            "GOLONGAN": "Penata Muda/III/a",
+            "JUMLAH_PEGAWAI": "921"
+        },
+        {
+            "GOLONGAN": "Penata Tk. I/III/d",
+            "JUMLAH_PEGAWAI": "2189"
+        },
+        {
+            "GOLONGAN": "Penata/III/c",
+            "JUMLAH_PEGAWAI": "1449"
+        },
+        {
+            "GOLONGAN": "Pengatur Muda Tk. I/II/b",
+            "JUMLAH_PEGAWAI": "58"
+        },
+        {
+            "GOLONGAN": "Pengatur Muda/II/a",
+            "JUMLAH_PEGAWAI": "58"
+        },
+        {
+            "GOLONGAN": "Pengatur Tk. I/II/d",
+            "JUMLAH_PEGAWAI": "255"
+        },
+        {
+            "GOLONGAN": "Pengatur/II/c",
+            "JUMLAH_PEGAWAI": "612"
+        }
+    ]
+}
